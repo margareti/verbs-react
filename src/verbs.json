@@ -1,0 +1,874 @@
+[{
+  "tense": {
+    "present": "be",
+    "past": "was/were",
+    "pastParticiple": "been"
+  },
+  "russian":"быть",
+  "level":"1",
+  "letter":"B"
+}, {
+  "tense": {
+    "present": "become",
+    "past": "became",
+    "pastParticiple": "become"
+  },
+  "russian":"cтановиться",
+  "level":"2",
+  "letter":"B, C, D"
+}, {
+  "tense": {
+    "present": "begin",
+    "past": "began",
+    "pastParticiple": "begun"
+  },
+  "russian":"начинать",
+  "level":"1",
+  "letter":"B"
+}, {
+  "tense": {
+    "present": "bet",
+    "past": "bet",
+    "pastParticiple": ""
+  },
+  "russian":"делать ставки",
+  "level":"4",
+  "letter":"B"
+}, {
+  "tense": {
+    "present": "bite",
+    "past": "bit",
+    "pastParticiple": "bitten"
+  },
+  "russian":"кусаться",
+  "level":"3",
+  "letter":"B, C"
+}, {
+  "tense": {
+    "present": "bleed",
+    "past": "bled",
+    "pastParticiple": ""
+  },
+  "russian":"кровоточить",
+  "level":"4",
+  "letter":"B"
+}, {
+  "tense": {
+    "present": "blow",
+    "past": "blew",
+    "pastParticiple": "blown"
+  },
+  "russian":"дуть",
+  "level":"4",
+  "letter":"B"
+}, {
+  "tense": {
+    "present": "break",
+    "past": "broke",
+    "pastParticiple": "broken"
+  },
+  "russian":"ломать",
+  "level":"1",
+  "letter":"B"
+}, {
+  "tense": {
+    "present": "bring",
+    "past": "brought",
+    "pastParticiple": ""
+  },
+  "russian":"приносить",
+  "level":"1",
+  "letter":"B"
+}, {
+  "tense": {
+    "present": "build",
+    "past": "built",
+    "pastParticiple": ""
+  },
+  "russian":"строить",
+  "level":"3",
+  "letter":"B, C"
+}, {
+  "tense": {
+    "present": "burn",
+    "past": "burnt",
+    "pastParticiple": ""
+  },
+  "russian":"жечь",
+  "level":"4",
+  "letter":"B"
+}, {
+  "tense": {
+    "present": "buy",
+    "past": "bought",
+    "pastParticiple": ""
+  },
+  "russian":"покупать",
+  "level":"1",
+  "letter":"B"
+}, {
+  "tense": {
+    "present": "can",
+    "past": "could",
+    "pastParticiple": ""
+  },
+  "russian":"быть способным",
+  "level":"1",
+  "letter":"C"
+}, {
+  "tense": {
+    "present": "catch",
+    "past": "caught",
+    "pastParticiple": ""
+  },
+  "russian":"ловить",
+  "level":"3",
+  "letter":"B, C"
+}, {
+  "tense": {
+    "present": "choose",
+    "past": "chose",
+    "pastParticiple": "chosen"
+  },
+  "russian":"выбирать",
+  "level":"1",
+  "letter":"C"
+}, {
+  "tense": {
+    "present": "come",
+    "past": "came",
+    "pastParticiple": "come"
+  },
+  "russian":"приходить",
+  "level":"1",
+  "letter":"C"
+}, {
+  "tense": {
+    "present": "cost",
+    "past": "cost",
+    "pastParticiple": ""
+  },
+  "russian":"стоить",
+  "level":"2",
+  "letter":"B, C, D"
+}, {
+  "tense": {
+    "present": "cut",
+    "past": "cut",
+    "pastParticiple": ""
+  },
+  "russian":"ломать",
+  "level":"4",
+  "letter":"C, D"
+}, {
+  "tense": {
+    "present": "deal",
+    "past": "dealt",
+    "pastParticiple": ""
+  },
+  "russian":"справляться с чем-то",
+  "level":"4",
+  "letter":"C, D"
+}, {
+  "tense": {
+    "present": "do",
+    "past": "did",
+    "pastParticiple": "done"
+  },
+  "russian":"делать",
+  "level":"1",
+  "letter":"D, E"
+}, {
+  "tense": {
+    "present": "draw",
+    "past": "drew",
+    "pastParticiple": "drawn"
+  },
+  "russian":"рисовать",
+  "level":"4",
+  "letter":"C, D"
+}, {
+  "tense": {
+    "present": "dream",
+    "past": "dreamt",
+    "pastParticiple": "dreamt"
+  },
+  "russian":"мечтать",
+  "level":"4",
+  "letter":"C, D"
+}, {
+  "tense": {
+    "present": "drink",
+    "past": "drank",
+    "pastParticiple": "drunk"
+  },
+  "russian":"пить",
+  "level":"1",
+  "letter":"D, E"
+}, {
+  "tense": {
+    "present": "drive",
+    "past": "drove",
+    "pastParticiple": "driven"
+  },
+  "russian":"водить машину",
+  "level":"2",
+  "letter":"B, C, D"
+}, {
+  "tense": {
+    "present": "eat",
+    "past": "ate",
+    "pastParticiple": "eaten"
+  },
+  "russian":"есть",
+  "level":"1",
+  "letter":"D, E"
+}, {
+  "tense": {
+    "present": "fall",
+    "past": "fell",
+    "pastParticiple": "fallen"
+  },
+  "russian":"падать",
+  "level":"1",
+  "letter":"F, G, H"
+}, {
+  "tense": {
+    "present": "feel",
+    "past": "felt",
+    "pastParticiple": ""
+  },
+  "russian":"чувствовать",
+  "level":"2",
+  "letter":"F, G"
+}, {
+  "tense": {
+    "present": "fight",
+    "past": "fought",
+    "pastParticiple": ""
+  },
+  "russian":"бороться",
+  "level":"3",
+  "letter":"F"
+}, {
+  "tense": {
+    "present": "find",
+    "past": "found",
+    "pastParticiple": ""
+  },
+  "russian":"находить",
+  "level":"1",
+  "letter":"F, G, H"
+}, {
+  "tense": {
+    "present": "fly",
+    "past": "flew",
+    "pastParticiple": "flown"
+  },
+  "russian":"летать",
+  "level":"3",
+  "letter":"F"
+}, {
+  "tense": {
+    "present": "forget",
+    "past": "forgot",
+    "pastParticiple": "forgotten"
+  },
+  "russian":"забывать",
+  "level":"2",
+  "letter":"F, G"
+}, {
+  "tense": {
+    "present": "forgive",
+    "past": "forgave",
+    "pastParticiple": "forgiven"
+  },
+  "russian":"прощать",
+  "level":"2",
+  "letter":"F, G"
+}, {
+  "tense": {
+    "present": "freeze",
+    "past": "froze",
+    "pastParticiple": "frozen"
+  },
+  "russian":"замерзать",
+  "level":"3",
+  "letter":"F"
+}, {
+  "tense": {
+    "present": "get",
+    "past": "got",
+    "pastParticiple": "gotten"
+  },
+  "russian":"получать",
+  "level":"1",
+  "letter":"F, G, H"
+}, {
+  "tense": {
+    "present": "give",
+    "past": "gave",
+    "pastParticiple": "given"
+  },
+  "russian":"давать",
+  "level":"1",
+  "letter":"F, G, H"
+}, {
+  "tense": {
+    "present": "go",
+    "past": "went",
+    "pastParticiple": "gone"
+  },
+  "russian":"идти/ехать",
+  "level":"1",
+  "letter":"F, G, H"
+}, {
+  "tense": {
+    "present": "grow",
+    "past": "grew",
+    "pastParticiple": "grown"
+  },
+  "russian":"расти",
+  "level":"2",
+  "letter":"F, G"
+}, {
+  "tense": {
+    "present": "hang",
+    "past": "hung",
+    "pastParticiple": ""
+  },
+  "russian":"висеть",
+  "level":"3",
+  "letter":"H"
+}, {
+  "tense": {
+    "present": "have",
+    "past": "had",
+    "pastParticiple": ""
+  },
+  "russian":"иметь",
+  "level":"1",
+  "letter":"F, G, H"
+}, {
+  "tense": {
+    "present": "hear",
+    "past": "heard",
+    "pastParticiple": ""
+  },
+  "russian":"слышать",
+  "level":"1",
+  "letter":"F, G, H"
+}, {
+  "tense": {
+    "present": "hide",
+    "past": "hid",
+    "pastParticiple": "hidden"
+  },
+  "russian":"прятать",
+  "level":"3",
+  "letter":"H"
+}, {
+  "tense": {
+    "present": "hit",
+    "past": "hit",
+    "pastParticiple": ""
+  },
+  "russian":"ударять",
+  "level":"3",
+  "letter":"H"
+}, {
+  "tense": {
+    "present": "hold",
+    "past": "held",
+    "pastParticiple": ""
+  },
+  "russian":"держать",
+  "level":"4",
+  "letter":"H, L, R"
+}, {
+  "tense": {
+    "present": "hurt",
+    "past": "hurt",
+    "pastParticiple": ""
+  },
+  "russian":"обижать",
+  "level":"3",
+  "letter":"H"
+}, {
+  "tense": {
+    "present": "keep",
+    "past": "kept",
+    "pastParticiple": ""
+  },
+  "russian":"хранить",
+  "level":"2",
+  "letter":"K, L, M"
+}, {
+  "tense": {
+    "present": "know",
+    "past": "knew",
+    "pastParticiple": "known"
+  },
+  "russian":"знать",
+  "level":"1",
+  "letter":"K, L, M"
+}, {
+  "tense": {
+    "present": "lay",
+    "past": "laid",
+    "pastParticiple": ""
+  },
+  "russian":"лежать",
+  "level":"4",
+  "letter":"H, L, R"
+}, {
+  "tense": {
+    "present": "lead",
+    "past": "led",
+    "pastParticiple": ""
+  },
+  "russian":"вести за собой",
+  "level":"3",
+  "letter":"L, R"
+}, {
+  "tense": {
+    "present": "leave",
+    "past": "left",
+    "pastParticiple": ""
+  },
+  "russian":"оставлять/покидать",
+  "level":"2",
+  "letter":"K, L, M"
+}, {
+  "tense": {
+    "present": "lend",
+    "past": "lent",
+    "pastParticiple": ""
+  },
+  "russian":"давать взаймы",
+  "level":"4",
+  "letter":"H, L, R"
+}, {
+  "tense": {
+    "present": "let",
+    "past": "let",
+    "pastParticiple": ""
+  },
+  "russian":"разрешать",
+  "level":"2",
+  "letter":"K, L, M"
+}, {
+  "tense": {
+    "present": "light",
+    "past": "lit",
+    "pastParticiple": ""
+  },
+  "russian":"зажигать",
+  "level":"4",
+  "letter":"H, L, R"
+}, {
+  "tense": {
+    "present": "lose",
+    "past": "lost",
+    "pastParticiple": ""
+  },
+  "russian":"терять",
+  "level":"1",
+  "letter":"K, L, M"
+}, {
+  "tense": {
+    "present": "make",
+    "past": "made",
+    "pastParticiple": ""
+  },
+  "russian":"создавать",
+  "level":"1",
+  "letter":"K, L, M"
+}, {
+  "tense": {
+    "present": "mean",
+    "past": "meant",
+    "pastParticiple": ""
+  },
+  "russian":"означать",
+  "level":"2",
+  "letter":"K, L, M"
+}, {
+  "tense": {
+    "present": "meet",
+    "past": "met",
+    "pastParticiple": ""
+  },
+  "russian":"встречать",
+  "level":"1",
+  "letter":"K, L, M"
+}, {
+  "tense": {
+    "present": "pay",
+    "past": "paid",
+    "pastParticiple": ""
+  },
+  "russian":"платить",
+  "level":"2",
+  "letter":"P, R"
+}, {
+  "tense": {
+    "present": "put",
+    "past": "put",
+    "pastParticiple": ""
+  },
+  "russian":"класть/ставить",
+  "level":"1",
+  "letter":"P, R"
+}, {
+  "tense": {
+    "present": "read",
+    "past": "read",
+    "pastParticiple": ""
+  },
+  "russian":"читать",
+  "level":"1",
+  "letter":"P, R"
+}, {
+  "tense": {
+    "present": "ride",
+    "past": "rode",
+    "pastParticiple": "ridden"
+  },
+  "russian":"ездить",
+  "level":"2",
+  "letter":"P, R"
+}, {
+  "tense": {
+    "present": "ring",
+    "past": "rang",
+    "pastParticiple": "rung"
+  },
+  "russian":"звонить",
+  "level":"4",
+  "letter":"H, L, R"
+}, {
+  "tense": {
+    "present": "rise",
+    "past": "rose",
+    "pastParticiple": "risen"
+  },
+  "russian":"подниматься",
+  "level":"3",
+  "letter":"L, R"
+}, {
+  "tense": {
+    "present": "run",
+    "past": "ran",
+    "pastParticiple": "run"
+  },
+  "russian":"бежать",
+  "level":"1",
+  "letter":"P, R"
+}, {
+  "tense": {
+    "present": "say",
+    "past": "said",
+    "pastParticiple": ""
+  },
+  "russian":"говорить",
+  "level":"1",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "see",
+    "past": "saw",
+    "pastParticiple": "seen"
+  },
+  "russian":"видеть",
+  "level":"1",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "sell",
+    "past": "sold",
+    "pastParticiple": "sold"
+  },
+  "russian":"продавать",
+  "level":"2",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "send",
+    "past": "sent",
+    "pastParticiple": ""
+  },
+  "russian":"отправлять",
+  "level":"2",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "set",
+    "past": "set",
+    "pastParticiple": ""
+  },
+  "russian":"ставить",
+  "level":"2",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "shake",
+    "past": "shook",
+    "pastParticiple": "shaken"
+  },
+  "russian":"трясти",
+  "level":"3",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "shine",
+    "past": "shone",
+    "pastParticiple": ""
+  },
+  "russian":"блестеть",
+  "level":"4",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "shoot",
+    "past": "shot",
+    "pastParticiple": ""
+  },
+  "russian":"стрелять",
+  "level":"4",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "show",
+    "past": "showed",
+    "pastParticiple": "shown"
+  },
+  "russian":"показывать",
+  "level":"2",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "shut",
+    "past": "shut",
+    "pastParticiple": ""
+  },
+  "russian":"закрывать",
+  "level":"3",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "sing",
+    "past": "sang",
+    "pastParticiple": "sung"
+  },
+  "russian":"петь",
+  "level":"1",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "sink",
+    "past": "sank",
+    "pastParticiple": "sunk"
+  },
+  "russian":"тонуть",
+  "level":"3",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "sit",
+    "past": "sat",
+    "pastParticiple": ""
+  },
+  "russian":"сидеть",
+  "level":"1",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "sleep",
+    "past": "slept",
+    "pastParticiple": ""
+  },
+  "russian":"спать",
+  "level":"1",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "speak",
+    "past": "spoke",
+    "pastParticiple": "spoken"
+  },
+  "russian":"говорить",
+  "level":"1",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "spend",
+    "past": "spent",
+    "pastParticiple": ""
+  },
+  "russian":"тратить",
+  "level":"1",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "spill",
+    "past": "spilled",
+    "pastParticiple": "spilt"
+  },
+  "russian":"проливать",
+  "level":"3",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "spoil",
+    "past": "spoilt",
+    "pastParticiple": ""
+  },
+  "russian":"портить",
+  "level":"4",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "spread",
+    "past": "spread",
+    "pastParticiple": ""
+  },
+  "russian":"расправлять",
+  "level":"4",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "stand",
+    "past": "stood",
+    "pastParticiple": ""
+  },
+  "russian":"стоять",
+  "level":"2",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "steal",
+    "past": "stole",
+    "pastParticiple": "stolen"
+  },
+  "russian":"красть",
+  "level":"3",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "stick",
+    "past": "stuck",
+    "pastParticiple": ""
+  },
+  "russian":"прилипать",
+  "level":"4",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "swim",
+    "past": "swam",
+    "pastParticiple": "swum"
+  },
+  "russian":"плавать",
+  "level":"1",
+  "letter":"S"
+}, {
+  "tense": {
+    "present": "take",
+    "past": "took",
+    "pastParticiple": "taken"
+  },
+  "russian":"брать",
+  "level":"2",
+  "letter":"T, U, W"
+}, {
+  "tense": {
+    "present": "teach",
+    "past": "taught",
+    "pastParticiple": ""
+  },
+  "russian":"преподавать",
+  "level":"2",
+  "letter":"T, U, W"
+}, {
+  "tense": {
+    "present": "tell",
+    "past": "told",
+    "pastParticiple": ""
+  },
+  "russian":"рассказывать",
+  "level":1,
+  "letter":"T"
+}, {
+  "tense": {
+    "present": "think",
+    "past": "thought",
+    "pastParticiple": ""
+  },
+  "russian":"думать",
+  "level":"1",
+  "letter":"T"
+}, {
+  "tense": {
+    "present": "throw",
+    "past": "threw",
+    "pastParticiple": "thrown"
+  },
+  "russian":"бросать",
+  "level":"4",
+  "letter":"T, U"
+}, {
+  "tense": {
+    "present": "understand",
+    "past": "understood",
+    "pastParticiple": ""
+  },
+  "russian":"понимать",
+  "level":"2",
+  "letter":"T, U, W"
+}, {
+  "tense": {
+    "present": "upset",
+    "past": "upset",
+    "pastParticiple": ""
+  },
+  "russian":"расстраивать",
+  "level":"4",
+  "letter":"T, U"
+}, {
+  "tense": {
+    "present": "wake",
+    "past": "woke",
+    "pastParticiple": "woken"
+  },
+  "russian":"просыпаться",
+  "level":"3",
+  "letter":"W"
+}, {
+  "tense": {
+    "present": "wear",
+    "past": "wore",
+    "pastParticiple": "worn"
+  },
+  "russian":"носить",
+  "level":"3",
+  "letter":"W"
+}, {
+  "tense": {
+    "present": "win",
+    "past": "won",
+    "pastParticiple": ""
+  },
+  "russian":"выигрывать",
+  "level":"3",
+  "letter":"W"
+}, {
+  "tense": {
+    "present": "write",
+    "past": "wrote",
+    "pastParticiple": "written"
+  },
+  "russian":"писать",
+  "level":"2",
+  "letter":"T, U, W"
+}]
